@@ -1,6 +1,6 @@
 # Blazor Puzzle #40
 
-## What The Form!
+## I Want My QR Code!
 
 YouTube Video: https://youtu.be/rhfqX7VUhRw
 
